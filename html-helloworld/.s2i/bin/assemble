@@ -1,0 +1,2 @@
+#!/bin/bash -e
+echo "My .s2i assemble!!!" >> /var/www/html/index.html
