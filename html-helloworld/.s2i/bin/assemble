@@ -1,3 +1,3 @@
 #!/bin/bash -e
-echo "Create Date: `date +%F`
+echo "Create Date: `date +%F`" >> /var/www/html/index.html
 echo "My .s2i assemble!!!" >> /var/www/html/index.html
