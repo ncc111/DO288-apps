@@ -1,0 +1,3 @@
+#!/bin/bash -e
+echo "My customized .s2i assemble!!!" >> /var/www/html/index.html
+echo "Create Date: `date +%F`" >> /var/www/html/index.html
