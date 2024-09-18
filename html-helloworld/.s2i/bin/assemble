@@ -1,3 +1,0 @@
-#!/bin/bash -e
-echo "Create Date: `date +%F`" >> /var/www/html/index.html
-echo "My .s2i / bin assemble!!!" >> /var/www/html/index.html
